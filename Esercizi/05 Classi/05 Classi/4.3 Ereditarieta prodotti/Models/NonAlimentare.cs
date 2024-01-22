@@ -36,8 +36,7 @@ namespace _4._3_Ereditarieta_prodotti.Models
 
         public override string ToString()
         {
-            return String.Format("{0,-20} {1,-20} {2,-20} {3,-20}",
-               Codice, Prezzo, Descrizione, Materiale);
+            return Codice + ";" + Prezzo + ";" + Descrizione + ";" + Materiale;
         }
     }
 }

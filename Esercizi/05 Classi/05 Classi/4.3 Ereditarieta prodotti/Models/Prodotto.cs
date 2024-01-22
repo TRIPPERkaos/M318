@@ -41,14 +41,13 @@ namespace _4._3_Ereditarieta_prodotti.Models
 
         public virtual double ApplicaSconto()
         {
-            _prezzo = _prezzo - (_prezzo * 0.05);
-            return _prezzo;
+            Prezzo = Prezzo - (Prezzo * 0.05);
+            return Prezzo;
         }
 
         public override string ToString()
         {
-            return String.Format("{0,-20} {1,-20} {2,-20}",
-               Codice, Prezzo, Descrizione);
+            return Codice + ";" + Prezzo + ";" + Descrizione;
         }
     }
 }
