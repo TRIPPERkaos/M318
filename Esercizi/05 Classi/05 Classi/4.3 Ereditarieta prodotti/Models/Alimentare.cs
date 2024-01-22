@@ -15,14 +15,13 @@ namespace _4._3_Ereditarieta_prodotti.Models
 			set { _data = value; }
 		}
 
-		public Alimentare(string codice, double prezzo, string descrizione, DateTime data) : base(codice,prezzo,descrizione)
+		public Alimentare(string codice, double prezzo, string descrizione, int anno, int mese, int giorno) : base(codice,prezzo,descrizione)
 		{
-			Data = data;
+			Data = new DateTime(anno,mese,giorno);
 		}
 
         public override double ApplicaSconto()
         {
-			//DateTime DataCorrente = DateTime.Now
 			Prezzo = Prezzo - (Prezzo * 0.2);
 			return Prezzo;
         }
