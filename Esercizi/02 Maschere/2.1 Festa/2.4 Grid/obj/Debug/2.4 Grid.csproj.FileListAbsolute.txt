@@ -1,0 +1,16 @@
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\bin\Debug\2.4 Grid.exe.config
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\bin\Debug\2.4 Grid.exe
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\bin\Debug\2.4 Grid.pdb
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.g.resources
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\_2._4_Grid.Properties.Resources.resources
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.csproj.GenerateResource.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.exe
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.4 Grid\obj\Debug\2.4 Grid.pdb

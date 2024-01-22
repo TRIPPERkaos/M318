@@ -1,0 +1,8 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\bin\Debug\05 Ereditarieta.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\bin\Debug\05 Ereditarieta.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\bin\Debug\05 Ereditarieta.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\obj\Debug\05 Ereditarieta.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\obj\Debug\05 Ereditarieta.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\obj\Debug\05 Ereditarieta.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\obj\Debug\05 Ereditarieta.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Ereditarieta\obj\Debug\05 Ereditarieta.pdb

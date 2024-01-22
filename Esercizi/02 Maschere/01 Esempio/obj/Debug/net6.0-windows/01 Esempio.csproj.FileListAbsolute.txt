@@ -1,0 +1,23 @@
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\bin\Debug\net6.0-windows\01 Esempio.exe
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\bin\Debug\net6.0-windows\01 Esempio.deps.json
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\bin\Debug\net6.0-windows\01 Esempio.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\bin\Debug\net6.0-windows\01 Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\bin\Debug\net6.0-windows\01 Esempio.pdb
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\Views\RicercaViews.g.cs
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\Views\RicercaViews.baml
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.g.resources
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\refint\01 Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.pdb
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\01 Esempio.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\02 Maschere\01 Esempio\obj\Debug\net6.0-windows\ref\01 Esempio.dll

@@ -1,0 +1,8 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\bin\Debug\Navigatore.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\bin\Debug\Navigatore.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\bin\Debug\Navigatore.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\obj\Debug\Navigatore.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\obj\Debug\Navigatore.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\obj\Debug\Navigatore.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\obj\Debug\Navigatore.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Navigatore\obj\Debug\Navigatore.pdb

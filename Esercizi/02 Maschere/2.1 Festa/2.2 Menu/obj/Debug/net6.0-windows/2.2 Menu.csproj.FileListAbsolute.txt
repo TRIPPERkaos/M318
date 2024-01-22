@@ -1,0 +1,27 @@
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\2.2 Menu.exe
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\2.2 Menu.deps.json
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\2.2 Menu.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\2.2 Menu.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\2.2 Menu.pdb
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\App.baml
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.g.resources
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.csproj.CopyComplete
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\refint\2.2 Menu.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.pdb
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\2.2 Menu.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.2 Menu\obj\Debug\net6.0-windows\ref\2.2 Menu.dll

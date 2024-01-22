@@ -1,0 +1,21 @@
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\bin\Debug\net6.0-windows\2.6 DockUI.exe
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\bin\Debug\net6.0-windows\2.6 DockUI.deps.json
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\bin\Debug\net6.0-windows\2.6 DockUI.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\bin\Debug\net6.0-windows\2.6 DockUI.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\bin\Debug\net6.0-windows\2.6 DockUI.pdb
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.g.resources
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\refint\2.6 DockUI.dll
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.pdb
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\2.6 DockUI.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\03 Festa\2.1 Festa\2.6 DockUI\obj\Debug\net6.0-windows\ref\2.6 DockUI.dll
