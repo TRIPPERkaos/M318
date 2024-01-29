@@ -1,8 +1,0 @@
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\bin\Debug\4.3 Ereditarieta prodotti.exe.config
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\bin\Debug\4.3 Ereditarieta prodotti.exe
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\bin\Debug\4.3 Ereditarieta prodotti.pdb
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\obj\Debug\4.3 Ereditarieta prodotti.csproj.AssemblyReference.cache
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\obj\Debug\4.3 Ereditarieta prodotti.csproj.SuggestedBindingRedirects.cache
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\obj\Debug\4.3 Ereditarieta prodotti.csproj.CoreCompileInputs.cache
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\obj\Debug\4.3 Ereditarieta prodotti.exe
-E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.3 Ereditarieta prodotti\obj\Debug\4.3 Ereditarieta prodotti.pdb

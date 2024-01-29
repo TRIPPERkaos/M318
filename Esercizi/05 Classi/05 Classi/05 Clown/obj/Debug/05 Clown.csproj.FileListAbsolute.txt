@@ -1,8 +1,0 @@
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\bin\Debug\05 Clown.exe.config
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\bin\Debug\05 Clown.exe
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\bin\Debug\05 Clown.pdb
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\obj\Debug\05 Clown.csproj.AssemblyReference.cache
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\obj\Debug\05 Clown.csproj.SuggestedBindingRedirects.cache
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\obj\Debug\05 Clown.csproj.CoreCompileInputs.cache
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\obj\Debug\05 Clown.exe
-D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\05 Clown\obj\Debug\05 Clown.pdb
