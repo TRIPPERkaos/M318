@@ -1,0 +1,7 @@
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\bin\Debug\02 Equation.exe.config
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\bin\Debug\02 Equation.exe
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\bin\Debug\02 Equation.pdb
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\obj\Debug\02 Equation.csproj.AssemblyReference.cache
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\obj\Debug\02 Equation.csproj.CoreCompileInputs.cache
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\obj\Debug\02 Equation.exe
+D:\CPT\GitHub318\M318\06 UniTest\TestUnitario\02 Equation\obj\Debug\02 Equation.pdb

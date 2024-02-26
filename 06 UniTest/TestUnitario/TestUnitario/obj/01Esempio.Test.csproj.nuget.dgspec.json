@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj": {}
+    "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj": {}
   },
   "projects": {
-    "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj": {
+    "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj",
+        "projectUniqueName": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj",
         "projectName": "01Esempio",
-        "projectPath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj",
+        "projectPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj",
         "packagesPath": "C:\\Users\\andrea.suma\\.nuget\\packages\\",
-        "outputPath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\obj\\",
+        "outputPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj": {
+    "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
+        "projectUniqueName": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
         "projectName": "01Esempio.Test",
-        "projectPath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
+        "projectPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
         "packagesPath": "C:\\Users\\andrea.suma\\.nuget\\packages\\",
-        "outputPath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\obj\\",
+        "outputPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj": {
-                "projectPath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj"
+              "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj": {
+                "projectPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\01Esempio\\01Esempio.csproj"
               }
             }
           }
@@ -101,6 +106,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -144,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

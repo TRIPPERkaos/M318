@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|d:\\cpt\\github318\\m318\\06 unitest\\testunitario\\02 equation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|solutionrelative:02 equation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|d:\\cpt\\github318\\m318\\06 unitest\\testunitario\\02 equation\\models\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|solutionrelative:02 equation\\models\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|d:\\cpt\\github318\\m318\\06 unitest\\testunitario\\02 equation\\models\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1527593-54A4-4846-9C03-6262AD44F11D}|02 Equation\\02 Equation.csproj|solutionrelative:02 equation\\models\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Program.cs",
+              "RelativeDocumentMoniker": "02 Equation\\Program.cs",
+              "ToolTip": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Program.cs",
+              "RelativeToolTip": "02 Equation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:37:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equation.cs",
+              "DocumentMoniker": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Models\\Equation.cs",
+              "RelativeDocumentMoniker": "02 Equation\\Models\\Equation.cs",
+              "ToolTip": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Models\\Equation.cs",
+              "RelativeToolTip": "02 Equation\\Models\\Equation.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA0wE4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:38:43.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Models\\Point2D.cs",
+              "RelativeDocumentMoniker": "02 Equation\\Models\\Point2D.cs",
+              "ToolTip": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\02 Equation\\Models\\Point2D.cs",
+              "RelativeToolTip": "02 Equation\\Models\\Point2D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:24:04.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

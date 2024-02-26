@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0K+x9Zyf1IyPv2HXlPvi4X2sZzrYdimIuhlrQZbsngO24s/ZLnHwrxBOe5KI+lPDeZXA6L4amVfKeXvbo7G/Dg==",
+  "dgSpecHash": "3igryLwsrkybB6PyMd2MnGwrSu1EwFeH+S26N5YJ6zjZwdHzn9doRiFBLwNi1c2s4MtwjNtWcIDHZH9X0R1LOQ==",
   "success": true,
-  "projectFilePath": "D:\\CPT\\Moduli\\M318\\Esercizi\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
+  "projectFilePath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andrea.suma\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\andrea.suma\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
