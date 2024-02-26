@@ -1,0 +1,42 @@
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.exe
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.deps.json
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.runtimeconfig.json
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.dll
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.pdb
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.csproj.AssemblyReference.cache
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\App.g.cs
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera_MarkupCompile.cache
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera_MarkupCompile.lref
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.g.resources
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.AssemblyInfoInputs.cache
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.AssemblyInfo.cs
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.csproj.CoreCompileInputs.cache
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.dll
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\refint\02 Scacchiera.dll
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.pdb
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.genruntimeconfig.cache
+D:\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\ref\02 Scacchiera.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.exe
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.deps.json
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\bin\Debug\net6.0-windows\02 Scacchiera.pdb
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.g.resources
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\refint\02 Scacchiera.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.pdb
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\02 Scacchiera.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\02 Scacchiera\obj\Debug\net6.0-windows\ref\02 Scacchiera.dll

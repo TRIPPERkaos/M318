@@ -1,0 +1,23 @@
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\08 EsempioFigure.exe
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\Image\Stitch.png
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\08 EsempioFigure.deps.json
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\08 EsempioFigure.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\08 EsempioFigure.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\bin\Debug\net6.0-windows\08 EsempioFigure.pdb
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure_Content.g.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure_MarkupCompile.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure_MarkupCompile.lref
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.g.resources
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\refint\08 EsempioFigure.dll
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.pdb
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\08 EsempioFigure.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\01 Base\08 EsempioFigure\obj\Debug\net6.0-windows\ref\08 EsempioFigure.dll

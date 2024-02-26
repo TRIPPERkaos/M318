@@ -1,0 +1,63 @@
+﻿<controls:MetroWindow
+    x:Class="_2._2_Menu.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:_2._2_Menu"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="420"
+    Height="450"
+    MinWidth="420"
+    MaxWidth="600"
+    MinHeight="450"
+    MaxHeight="450"
+    mc:Ignorable="d">
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DockPanel>
+            <Menu DockPanel.Dock="Left">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open    Ctrl+O" />
+                    <MenuItem Header="Open Recent">
+                        <MenuItem Header="Item One" />
+                        <MenuItem Header="Item Two" />
+                        <MenuItem Header="Item Three" />
+                    </MenuItem>
+                    <MenuItem Header="Item One" />
+                    <MenuItem Header="Item Two" />
+                    <MenuItem Header="Toggle Item" />
+                    <MenuItem Header="Disabled Item" />
+                    <MenuItem Header="Exit      Ctrl+X" />
+
+
+                </MenuItem>
+            </Menu>
+
+        </DockPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Label Content="A paragraph of text with"></Label>
+            <Label Content="an unassigned link"></Label>
+            <Label Content="A second row of text with a web link"></Label>
+
+            <TextBox BorderBrush="Black" BorderThickness="3" Margin="0 60 0 0"></TextBox>
+            <TextBox BorderBrush="Black" BorderThickness="3" Margin="0 5 0 0"></TextBox>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="1">
+            <Slider Margin="0 180 0 0" Width="200"></Slider>
+        </StackPanel>
+    </Grid>
+    
+</controls:MetroWindow>

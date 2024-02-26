@@ -1,0 +1,25 @@
+﻿<Window
+    x:Class="_2._6_DockUI.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:_2._6_DockUI"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <DockPanel>
+        <Button Background="Aqua" DockPanel.Dock="Top">Dock = &quot;Top&quot;</Button>
+        <Button Background="Aqua" DockPanel.Dock="Top">Dock = &quot;Top&quot;</Button>
+        <Button Background="Yellow" DockPanel.Dock="Bottom">Dock = &quot;Bottom&quot;</Button>
+        <Button
+            Width="350"
+            Background="LightGreen"
+            DockPanel.Dock="Left">
+            Dock = &quot;Left&quot;
+        </Button>
+        <Button Background="White">This content will &quot;fill&quot; the remaining space</Button>
+
+    </DockPanel>
+</Window>

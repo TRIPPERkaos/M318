@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxEEfbvswjvecnJv7t4lom1yWyS7raCvsesdrcrCNzwW8uz3JFGztwfEZWYBf1+rF5EvqanTw0EiA6c3p/1RAQ==",
+  "success": true,
+  "projectFilePath": "D:\\CPT\\Moduli\\M318\\Esercizi\\02 Maschere\\2.1 Festa\\2.1 Festa\\2.1 Festa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrea.suma\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\andrea.suma\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\andrea.suma\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\andrea.suma\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

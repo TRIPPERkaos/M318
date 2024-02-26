@@ -1,0 +1,8 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\bin\Debug\Stereo Multifunzione.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\bin\Debug\Stereo Multifunzione.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\bin\Debug\Stereo Multifunzione.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\obj\Debug\4.4 Stereo Multifunzione.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\obj\Debug\4.4 Stereo Multifunzione.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\obj\Debug\4.4 Stereo Multifunzione.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\obj\Debug\Stereo Multifunzione.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\Stereo Multifunzione\obj\Debug\Stereo Multifunzione.pdb

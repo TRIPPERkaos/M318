@@ -1,0 +1,16 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.pdb
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.exe.config
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.exe
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\bin\Debug\3.2 Fumetto.pdb
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.AssemblyReference.cache
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.SuggestedBindingRedirects.cache
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.csproj.CoreCompileInputs.cache
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.exe
+E:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.2 Fumetto\obj\Debug\3.2 Fumetto.pdb

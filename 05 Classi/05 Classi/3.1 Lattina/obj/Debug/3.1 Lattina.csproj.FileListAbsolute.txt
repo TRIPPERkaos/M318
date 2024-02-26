@@ -1,0 +1,8 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\bin\Debug\3.1 Lattina.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\bin\Debug\3.1 Lattina.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\bin\Debug\3.1 Lattina.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\obj\Debug\3.1 Lattina.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\obj\Debug\3.1 Lattina.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\obj\Debug\3.1 Lattina.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\obj\Debug\3.1 Lattina.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\3.1 Lattina\obj\Debug\3.1 Lattina.pdb

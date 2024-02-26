@@ -1,0 +1,8 @@
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\bin\Debug\4.1 Classe Persona.exe.config
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\bin\Debug\4.1 Classe Persona.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\bin\Debug\4.1 Classe Persona.pdb
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\obj\Debug\4.1 Classe Persona.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\obj\Debug\4.1 Classe Persona.csproj.SuggestedBindingRedirects.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\obj\Debug\4.1 Classe Persona.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\obj\Debug\4.1 Classe Persona.exe
+D:\CPT\Moduli\M318\Esercizi\05 Classi\05 Classi\4.1 Classe Persona\obj\Debug\4.1 Classe Persona.pdb

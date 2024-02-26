@@ -1,0 +1,15 @@
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\bin\Debug\net6.0\01Esempio.exe
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\bin\Debug\net6.0\01Esempio.deps.json
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\bin\Debug\net6.0\01Esempio.runtimeconfig.json
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\bin\Debug\net6.0\01Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\bin\Debug\net6.0\01Esempio.pdb
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.csproj.AssemblyReference.cache
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.AssemblyInfoInputs.cache
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.AssemblyInfo.cs
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.csproj.CoreCompileInputs.cache
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\refint\01Esempio.dll
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.pdb
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\01Esempio.genruntimeconfig.cache
+D:\CPT\Moduli\M318\Esercizi\06 UniTest\TestUnitario\01Esempio\obj\Debug\net6.0\ref\01Esempio.dll
