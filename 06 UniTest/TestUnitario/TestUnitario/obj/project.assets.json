@@ -5533,8 +5533,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrea.suma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gisel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5542,22 +5541,18 @@
       "projectUniqueName": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
       "projectName": "01Esempio.Test",
       "projectPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\01Esempio.Test.csproj",
-      "packagesPath": "C:\\Users\\andrea.suma\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\gisel\\.nuget\\packages\\",
       "outputPath": "D:\\CPT\\GitHub318\\M318\\06 UniTest\\TestUnitario\\TestUnitario\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andrea.suma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gisel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5574,11 +5569,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5622,7 +5612,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
